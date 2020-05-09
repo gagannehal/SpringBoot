@@ -1,2 +1,2 @@
-# SpringBoot
-To develop springboot projects
+# Springboot
+To develop Springboot projects
